@@ -16,7 +16,7 @@ This project focuses on analyzing music store data with SQL. The dataset has 11 
 
 ## Introduction
 
-The "Music Store Data Analysis" project offers a comprehensive analysis of the music store's data to facilitate better decision-making, identify trends, and understand customer behavior. By leveraging SQL queries and data exploration, this project provides valuable answers to optimize inventory management, target marketing campaigns, and make informed business decisions.
+The "Music Store Data Analysis" project offers a comprehensive analysis of the music store's data to facilitate better decision-making, identify trends, and understand customer behavior. By leveraging SQL queries and data exploration, this project provides valuable answers to optimize inventory management, target marketing campaigns and make informed business decisions.
 
 ## Dataset
 
